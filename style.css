@@ -1,15 +1,8 @@
-#box1 {
-    background-color: thistle;
+ #box1 {
+    background-color: bisque;
+    width: 300px;
     padding: 30px;
-    border: 20px solid orange;
-    margin: 10px;
-}
+    border: 10px solid rebeccapurple;
+ }
 
-#box2 {
-    background-color: teal;
-    margin: 40px;
-}
-
-.wrapper {
-    display: flex;
-}
+ /* width = Total
